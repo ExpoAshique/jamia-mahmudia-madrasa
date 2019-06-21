@@ -8708,7 +8708,13 @@ h1, h2, h3, h4, h5,
     display: inline-block; }
 
 .ftco-gallery {
-  padding: 0; }
+  padding: 0;
+}
+
+.map-ftco-gallery {
+  padding: 0;
+  overflow: hidden;
+}
 
 .gallery {
   display: block;
@@ -9714,4 +9720,16 @@ textarea.form-control {
 
 .text-white{
   color:fff;
+}
+ 
+#map-container-google-1 {
+
+  width: 100%;
+overflow: hidden;
+}
+.map-container iframe {
+
+  width: 100%;
+  height: 100%;
+
 }
