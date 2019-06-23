@@ -59,6 +59,7 @@ body {
   text-align: left;
   background-color: #fff;
   padding: 0px;
+  overflow-x: hidden !important;
 }
 
 [tabindex="-1"]:focus {
@@ -9732,4 +9733,12 @@ overflow: hidden;
   width: 100%;
   height: 100%;
 
+}
+
+section#responsive {
+    display: none;
+}
+
+.ftco-intro {
+    display: none;
 }
