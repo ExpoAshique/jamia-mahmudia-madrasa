@@ -16,7 +16,11 @@
 
 /* Mobile Layout : 320px */
 
-@media only screen and (max-width: 767px) { 
+@media only screen and (max-width: 767px) {
+
+body {
+  overflow-x: inherit !important;
+}
 
 section#responsive {
     display: block;
@@ -35,6 +39,14 @@ section.home-slider.owl-carousel.owl-loaded.owl-drag {
 .ftco-intro {
     display: none;
 }
+
+.owl-carousel.home-slider {
+    position: inherit;
+    height: 760px;
+    z-index: inherit;
+}
+
+
 }
 
 
