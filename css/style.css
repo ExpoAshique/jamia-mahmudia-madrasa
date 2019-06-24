@@ -8126,14 +8126,15 @@ h1, h2, h3, h4, h5,
         color: #fff; } }
   .ftco-navbar-light .navbar-toggler {
     border: none;
-    color: rgba(255, 255, 255, 0.5) !important;
+    color: black !important;
     cursor: pointer;
     padding-right: 0;
     text-transform: uppercase;
     font-size: 16px;
     letter-spacing: .1em; }
     .ftco-navbar-light .navbar-toggler:focus {
-      outline: none !important; }
+      outline: none !important; 
+    }
   .ftco-navbar-light.scrolled {
     position: fixed;
     right: 0;
