@@ -22,29 +22,23 @@ body {
   overflow-x: inherit !important;
 }
 
-section#responsive {
+
+
+
+#myCarousel .responsive {
+    width: 100%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
     display: block;
 }
-section.home-slider.owl-carousel.owl-loaded.owl-drag {
-    display: none;
-}
-.owl-carousel.home-slider .slider-item .slider-text {
 
-    height: 800px;
-
-}
-.content_bg {
-    margin-top: 200px;
-}
-.ftco-intro {
+#myCarousel img {
     display: none;
 }
 
-.owl-carousel.home-slider {
-    position: inherit;
-    height: 760px;
-    z-index: inherit;
-}
+
 
 
 }
