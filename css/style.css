@@ -13647,7 +13647,7 @@ textarea.form-control {
     color: fff;
 }
 
-#map-container-google-1 {
+#map-container-gonavbarogle-1 {
 
     width: 100%;
     overflow: hidden;
@@ -13681,23 +13681,13 @@ section#responsive {
     height: 760px;
 }
 
-#myCarousel .responsive{
+#myCarousel .responsive {
     display: none;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.navbar.homnav{
+    margin-bottom: -10px;
+}
 
 
 
