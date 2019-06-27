@@ -13689,6 +13689,20 @@ section#responsive {
     margin-bottom: -10px;
 }
 
+.carousel-caption {
+    right: 0% !important;
+    left: 0% !important;
+}
+.carousel-caption .content-left {
+    float: left;
+    width: 52%;
+}
+
+.carousel-caption .content-right {
+    float: right;
+    width: 40%;
+}
+
 
 
 

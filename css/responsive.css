@@ -84,6 +84,26 @@
     padding:0px 10px;
 
 }
+
+.carousel-caption .content-left {
+    float: inherit;
+    width: 95%;
+    padding-bottom: 180px;
+    margin-left: 15px;
+}
+
+.carousel-caption .content-right {
+
+    float: inherit;
+    width: 95%;
+    margin-left: 15px;
+}
+
+.content-left.old-mad{
+    padding-bottom: 300px;
+}
+
+
 }
 
 
