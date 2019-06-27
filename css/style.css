@@ -13703,7 +13703,9 @@ section#responsive {
     width: 40%;
 }
 
-
+#map-container-google-1 {
+    width: 100%;
+}
 
 
 
