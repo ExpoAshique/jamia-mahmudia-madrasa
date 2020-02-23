@@ -12241,6 +12241,8 @@ h1, h2, h3, h4, h5,
 
 .ftco-gallery {
     padding: 0;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 
 .map-ftco-gallery {
