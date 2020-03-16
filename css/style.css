@@ -9,6 +9,10 @@
     padding-top: 70px;
   }
 
+  .row {
+    margin-right: 2px;
+    margin-left: -15px;
+}
 
   /*---------------------------------------
      TYPOGRAPHY              
@@ -223,9 +227,9 @@
     color: #ffffff;
   }
 
-  #home h3 {
+  #home p {
     color: #f9f9f9;
-    font-size: 25px;
+    font-size: 15px;
     font-weight: bold;
     margin: 0;
     padding: 5px 0 40px 0;
@@ -245,7 +249,7 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    text-align: left;
+    text-align: center;
     background-color: rgba(20,20,20,0.2);
     height: 100%;
     color: #fff;
@@ -256,7 +260,7 @@
     background-repeat: no-repeat;
     background-attachment: local;
     background-size: cover;
-    height: 650px;
+    height: 600px;
   }
   
   .caption h3 a { color: #FFF; }
@@ -392,11 +396,18 @@
     color: #303030;
   }
 
-
+#home h3{
+  color: orange;
+  text-align: center;
+  margin-top: 418px;
+  justify-content: center;
+  font-weight: bold;
+}
+}
 .icon_list ul li{
   list-style: none;
   font-size: 15px;
-  padding-left: 169px;
+  padding-left: 140px;
   margin-top: 22px;
   font-weight: bold;
 }
@@ -519,9 +530,10 @@ a:hover,a:focus{
 }
 .add{
   margin-top: 42px;
-  padding-left: 57px;
+  padding-left: 81px;
   text-align: center;
   justify-content: center;
+  
 }
 
 .panel-body h3 p{
