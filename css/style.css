@@ -267,18 +267,21 @@
   .caption h3 a:hover { color: #FF3; }
 
   .home-slider .item-first {
-    background-image: url(../images/sp2.JPEG);
+    background-image: url(../images/mike.jpg);
 	background-position: center;
   }
 
   .home-slider .item-second {
-    background-image: url(../images/sp4.JPEG);
+    background-image: url(../images/6.jpg);
   }
 
   .home-slider .item-third {
     background-image: url(../images/10012.jpg);
   }
   
+  home-slider .item-first img{
+    height: 600px;
+  }
   
 
 
@@ -405,7 +408,7 @@
 }
 }
 .icon_list ul li{
-  list-style: none;
+ list-style: none;
   font-size: 15px;
   padding-left: 140px;
   margin-top: 22px;
@@ -416,9 +419,16 @@
   color: #29ca8e;
 }
 
+ol, ul {
+  margin-top: 0;
+  margin-bottom: 10px;
+  list-style: none;
+  padding-left: 170px;
+}
 .icon_list li i:hover{
   color: #252525;
 }
+
 
 /* SLider Start */
 
