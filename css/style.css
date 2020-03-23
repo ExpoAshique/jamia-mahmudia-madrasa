@@ -267,17 +267,23 @@
   .caption h3 a:hover { color: #FF3; }
 
   .home-slider .item-first {
-    background-image: url(../images/mike.jpg);
+    background-image: url(../images/new1.jpg);
 	background-position: center;
   }
 
   .home-slider .item-second {
-    background-image: url(../images/6.jpg);
+    background-image: url(../images/111.jpg);
   }
 
   .home-slider .item-third {
-    background-image: url(../images/10012.jpg);
+    background-image: url(../images/sp5.JPEG);
   }
+
+  .home-slider .item-four {
+    background-image: url(../images/104.jpg);
+  }
+
+ 
   
   home-slider .item-first img{
     height: 600px;
