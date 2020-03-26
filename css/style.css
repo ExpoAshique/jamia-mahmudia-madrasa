@@ -260,7 +260,7 @@
     background-repeat: no-repeat;
     background-attachment: local;
     background-size: cover;
-    height: 600px;
+    height:450px;
   }
   
   .caption h3 a { color: #FFF; }
@@ -285,11 +285,10 @@
 
  
   
-  home-slider .item-first img{
+  /* home-slider .item-first img{
     height: 600px;
-  }
+  } */
   
-
 
 
 /*  Carrd Start */
